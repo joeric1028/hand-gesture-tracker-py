@@ -1,2 +1,3 @@
 opencv-python
-MediaPipe
+mediapipe>=0.10.0
+protobuf>=4.25.0
